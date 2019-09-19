@@ -1,3 +1,3 @@
 # responsive-web-design
 Introduction To Responsive web design - HTML &amp; CSS Tutorial
-[freeCodeCamp.org](https://www.youtube.com/watch?v=srvUrASNj0s)
+[freeCodeCamp.org](https://youtu.be/srvUrASNj0s?t=1372)
